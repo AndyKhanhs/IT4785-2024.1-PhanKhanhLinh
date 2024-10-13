@@ -19,6 +19,7 @@
         android:textSize="60sp"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -101,7 +102,6 @@
         android:textSize="20sp"
         app:backgroundTint="#E0E0E0"
         app:cornerRadius="1dp"
-        app:layout_constraintBottattriom_toTopOf="@+id/button36"
         app:layout_constraintBottom_toTopOf="@+id/button36"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/button3"
